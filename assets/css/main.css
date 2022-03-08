@@ -3910,9 +3910,9 @@ input, select, textarea {
 /* Dropdown Button */
 .dropbtn {
   background-color: transparent;
-  color: white;
+  color: transparent;
   padding: 16px;
-  font-size: 16px;
+  font-size: 14px;
   border: none;
 }
 
@@ -3926,7 +3926,7 @@ input, select, textarea {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: transparent;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
